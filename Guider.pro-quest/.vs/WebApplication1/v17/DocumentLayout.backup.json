@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HYPERPC\\source\\repos\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5399920D-C4A4-467F-A2A3-EE5095D076F4}|WebApplication1\\WebApplication1.csproj|c:\\users\\hyperpc\\source\\repos\\webapplication1\\webapplication1\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5399920D-C4A4-467F-A2A3-EE5095D076F4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5399920D-C4A4-467F-A2A3-EE5095D076F4}|WebApplication1\\WebApplication1.csproj|c:\\users\\hyperpc\\source\\repos\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5399920D-C4A4-467F-A2A3-EE5095D076F4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5399920D-C4A4-467F-A2A3-EE5095D076F4}|WebApplication1\\WebApplication1.csproj|c:\\users\\hyperpc\\source\\repos\\webapplication1\\webapplication1\\place.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5399920D-C4A4-467F-A2A3-EE5095D076F4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\place.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5399920D-C4A4-467F-A2A3-EE5095D076F4}|WebApplication1\\WebApplication1.csproj|c:\\users\\hyperpc\\source\\repos\\webapplication1\\webapplication1\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5399920D-C4A4-467F-A2A3-EE5095D076F4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5399920D-C4A4-467F-A2A3-EE5095D076F4}|WebApplication1\\WebApplication1.csproj|c:\\users\\hyperpc\\source\\repos\\webapplication1\\webapplication1\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5399920D-C4A4-467F-A2A3-EE5095D076F4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5399920D-C4A4-467F-A2A3-EE5095D076F4}|WebApplication1\\WebApplication1.csproj|c:\\users\\hyperpc\\source\\repos\\webapplication1\\webapplication1\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5399920D-C4A4-467F-A2A3-EE5095D076F4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5399920D-C4A4-467F-A2A3-EE5095D076F4}|WebApplication1\\WebApplication1.csproj|c:\\users\\hyperpc\\source\\repos\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5399920D-C4A4-467F-A2A3-EE5095D076F4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5399920D-C4A4-467F-A2A3-EE5095D076F4}|WebApplication1\\WebApplication1.csproj|c:\\users\\hyperpc\\source\\repos\\webapplication1\\webapplication1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5399920D-C4A4-467F-A2A3-EE5095D076F4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HYPERPC\\source\\repos\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\HYPERPC\\source\\repos\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-16T15:37:20.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\HYPERPC\\source\\repos\\WebApplication1\\WebApplication1\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\HYPERPC\\source\\repos\\WebApplication1\\WebApplication1\\CategoriesController.cs",
+              "RelativeToolTip": "WebApplication1\\CategoriesController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAwBMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:50:00.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HYPERPC\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\HYPERPC\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:47:44.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HYPERPC\\source\\repos\\WebApplication1\\WebApplication1\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\HYPERPC\\source\\repos\\WebApplication1\\WebApplication1\\AppDbContext.cs",
+              "RelativeToolTip": "WebApplication1\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:42:53.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Place.cs",
+              "DocumentMoniker": "C:\\Users\\HYPERPC\\source\\repos\\WebApplication1\\WebApplication1\\Place.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Place.cs",
+              "ToolTip": "C:\\Users\\HYPERPC\\source\\repos\\WebApplication1\\WebApplication1\\Place.cs",
+              "RelativeToolTip": "WebApplication1\\Place.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:42:04.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\HYPERPC\\source\\repos\\WebApplication1\\WebApplication1\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\HYPERPC\\source\\repos\\WebApplication1\\WebApplication1\\appsettings.Development.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-16T13:43:12.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\HYPERPC\\source\\repos\\WebApplication1\\WebApplication1\\Tag.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Tag.cs",
+              "ToolTip": "C:\\Users\\HYPERPC\\source\\repos\\WebApplication1\\WebApplication1\\Tag.cs",
+              "RelativeToolTip": "WebApplication1\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:42:24.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\HYPERPC\\source\\repos\\WebApplication1\\WebApplication1\\Category.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Category.cs",
+              "ToolTip": "C:\\Users\\HYPERPC\\source\\repos\\WebApplication1\\WebApplication1\\Category.cs",
+              "RelativeToolTip": "WebApplication1\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:41:29.93Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
